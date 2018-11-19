@@ -410,14 +410,10 @@ textarea {}
 
 		img {
 			border-right: 7px solid black;
-		}
-
-		max-height: 625px;
-
-		img+img {
 			border-top: 7px solid black;
 		}
 
+		max-height: 625px;
 		flex-wrap: wrap;
 	}
 

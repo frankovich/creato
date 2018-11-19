@@ -954,8 +954,5 @@ select {
 
 .ba-works__filters img {
   border-right: 7px solid black;
-}
-
-.ba-works__filters img + img {
   border-top: 7px solid black;
 }
