@@ -1247,6 +1247,10 @@ select {
   display: none;
 }
 
+.ba-footer {
+  padding-bottom: 10px;
+}
+
 .ba-footer .ba-col-4__leftblock {
   display: -webkit-box;
   display: -ms-flexbox;
